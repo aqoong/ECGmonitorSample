@@ -1,6 +1,8 @@
 # ECGmonitorSample
 This is realtime ECG monitor
 
+![](sample.gif)
+
 ## How To Use
 - .xml
 ```
