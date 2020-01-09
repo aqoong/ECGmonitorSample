@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MonitorView">
+        <attr name="monitorBackground" format="reference"/>
+        <attr name="lineWidth" format="float"/>
+        <attr name="traceSpace" format="float"/>
+        <attr name="lineColor" format="color|string"/>
+        <attr name="traceLineColor" format="color|string"/>
+        <attr name="backgroundColor" format="color|string"/>
+        <attr name="maxSize" format="integer"/>
+    </declare-styleable>
+</resources>
